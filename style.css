@@ -257,9 +257,9 @@ hr{
     background-size: cover;
     background-position: 50% 0%;
 }
-.member:nth-child(1){  background-image: url(images/photo_15.png);}
-.member:nth-child(2){  background-image: url(images/photo_16.png);}
-.member:nth-child(3){  background-image: url(images/photo_17.png);}
+/*.member:nth-child(1){  background-image: url(images/photo_15.png);}*/
+.member:nth-child(1){  background-image: url(images/photo_16.png);}
+.member:nth-child(2){  background-image: url(images/photo_17.png);}
 .member h2{
     color: #FFD706;
     padding: 0 7%;
